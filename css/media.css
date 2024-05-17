@@ -1,0 +1,10 @@
+/* media query > 반응형 */
+@media screen and (max-width: 786px) {
+  .header .container .navi {
+    display: none;
+  }
+
+  .header .container .info {
+    display: none;
+  }
+}
